@@ -1,1 +1,2 @@
-# sbx-discord-bot-v2
+# SBXBot
+### sbx-discord-bot-v2
